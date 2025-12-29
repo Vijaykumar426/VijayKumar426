@@ -37,6 +37,8 @@ Motivated to build reliable, efficient, and industry-relevant embedded solutions
 ### Hardware Interfaces
 - LCD (16×2)
 - 4×4 Matrix Keypad
+- Seven Segment
+- Dot Matrix(8X8)
 - RTC
 - Buzzer
 - LEDs

@@ -7,8 +7,7 @@
 ---
 
 ## 🧑‍💼 Professional Summary
-I am an Electronics and Communication Engineering graduate with a strong interest in embedded systems and software development.  
-Currently undergoing hands-on training in embedded systems, focusing on microcontroller-based design, real-time applications, and communication protocols.  
+I am an Electronics and Communication Engineering graduate with a strong interest in embedded systems and software development.Currently undergoing hands-on training in embedded systems, focusing on microcontroller-based design, real-time applications, and communication protocols.  
 Motivated to build reliable, efficient, and industry-relevant embedded solutions.
 
 ---
@@ -56,7 +55,7 @@ An ARM LPC2148 based embedded system designed to assist users in taking prescrib
 - Keypad-based user input  
 - Buzzer and LED alerts for missed doses  
 
-🔗 Repository: **DoseGuardian-Embedded-System**
+🔗 Repository: **DoseGuardian – Intelligent Pill-Taking Assistant**
 
 ---
 

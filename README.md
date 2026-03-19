@@ -37,21 +37,21 @@ Currently expanding expertise in embedded software development and industry-grad
 * ADC & Sensor Interfacing
 * Real-Time Embedded Systems
 
-🔗 Communication Protocols
+### 🔗 Communication Protocols
 
-UART
-I2C
-SPI
-CAN Protocol
-TCP/IP Networking
+* UART
+* I2C
+* SPI
+* CAN Protocol
+* TCP/IP Networking
 
-💻 Development Tools & Operating Systems
+### 💻 Development Tools & Operating Systems
 
-Keil µVision
-Flash Magic
-Proteus Simulation
-Linux OS
-Embedded Linux (Basics)
+* Keil µVision
+* Flash Magic
+* Proteus Simulation
+* Linux OS
+* Embedded Linux (Basics)
 ### ⚙️ Hardware Interfaces
 
 * LCD (16×2 Alphanumeric)

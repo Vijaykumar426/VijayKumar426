@@ -82,7 +82,7 @@ A multi-node embedded system designed to improve vehicle safety by monitoring cr
 
 **Technologies Used:** Embedded C, ARM7 (LPC2129), CAN Protocol, Sensor Interfacing
 
-🔗 Repository:Real-Time Vehicle Status Monitoring System using CAN
+🔗 Repository:https://github.com/Vijaykumar426/Real-Time Vehicle Status Monitoring System using CAN
 
 ---
 
@@ -99,7 +99,7 @@ An ARM LPC2148 based embedded system that assists patients in taking medicines o
 
 **Technologies Used:** Embedded C, ARM7 (LPC2148), RTC Interface, Keypad & LCD Interfacing
 
-🔗 Repository: DoseGuardian – Intelligent Pill-Taking Assistant
+🔗 Repository: https://github.com/Vijaykumar426/DoseGuardian-Intelligent-Pill-Taking-Assistant
 
 ---
 
@@ -121,7 +121,7 @@ Demonstrates file handling and string processing techniques
 
 Technologies Used: C Programming, File Handling, String Manipulation, Compiler Basics
 
-🔗 Repository:Implementation of C Preprocessor in C Language 
+🔗 Repository:https://github.com/Vijaykumar426/Implementation of C Preprocessor in C Language 
 
 ## 🎯 Career Objective
 

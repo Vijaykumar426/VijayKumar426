@@ -121,19 +121,19 @@ To start my career as an **Embedded Systems Engineer** where I can apply my tech
 
 ## 🏆 Strengths
 
-✔ Strong problem-solving skills
-✔ Good understanding of hardware–software integration
-✔ Quick learner with hands-on project experience
-✔ Passion for embedded and automotive systems
-✔ Team player with good communication skills
+* ✔ Strong problem-solving skills
+* ✔ Good understanding of hardware–software integration
+* ✔ Quick learner with hands-on project experience
+* ✔ Passion for embedded and automotive systems
+* ✔ Team player with good communication skills
 
 ---
 
 ## 📫 Contact Information
 
-📧 Email: [jarplavijaykumar426@gmail.com](mailto:jarplavijaykumar426@gmail.com)
-💻 GitHub: [https://github.com/vijaykumar426](https://github.com/vijaykumar426)
-🔗 LinkedIn: https://www.linkedin.com/in/jarpla-vijay-kumar-73b35831a
+* 📧 Email: [jarplavijaykumar426@gmail.com](mailto:jarplavijaykumar426@gmail.com)
+* 💻 GitHub: [https://github.com/vijaykumar426](https://github.com/vijaykumar426)
+* 🔗 LinkedIn: https://www.linkedin.com/in/jarpla-vijay-kumar-73b35831a
 
 ---
 

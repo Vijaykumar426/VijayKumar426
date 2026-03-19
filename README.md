@@ -103,23 +103,19 @@ An ARM LPC2148 based embedded system that assists patients in taking medicines o
 
 ---
 
-🧩 Implementation of C Preprocessor in C Language  
+### 🧩 Implementation of C Preprocessor in C Language  
 
 A system-level C project that simulates the working of a C preprocessor by implementing core preprocessing functionalities such as comment removal, macro expansion, and header file inclusion.
 
-Key Features:
+**Key Features:**
 
-Removes single-line and multi-line comments from C source files
+* Removes single-line and multi-line comments from C source files
+* Performs macro substitution and replacement
+* Processes and includes user-defined header files
+* Improves code readability and compilation preparation
+* Demonstrates file handling and string processing techniques
 
-Performs macro substitution and replacement
-
-Processes and includes user-defined header files
-
-Improves code readability and compilation preparation
-
-Demonstrates file handling and string processing techniques
-
-Technologies Used: C Programming, File Handling, String Manipulation, Compiler Basics
+**Technologies Used:** C Programming, File Handling, String Manipulation, Compiler Basics
 
 🔗 Repository:https://github.com/Vijaykumar426/Implementation-of-C-Preprocessor-in-C-Language-
 
